@@ -6,4 +6,4 @@ For example you send email like:
 
 "It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment." -- Carl Friedrich Gauss
 
-Then at 9am the next day, this quote will get bounced back to you.
+Then this quote will be in your database and will be included in a quote reminder, periodically.
